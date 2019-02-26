@@ -2,7 +2,7 @@
 The IntelliVue plugin for IntelliJ provides analysis, actions, and utilities, for Vue Single File Components
 
 # Documentation
-View the official documentation here: [https://www.twelvetone.tv/developer-tools/intellij-plugins/intellivue](Official Documentation)
+View the official documentation here: [Official Documentation](https://www.twelvetone.tv/developer-tools/intellij-plugins/intellivue)
 
 # License
 The binary version of this plugin is provided under the Creative Commons CC By-ND 4.0 License.
